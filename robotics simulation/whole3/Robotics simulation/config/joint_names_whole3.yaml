@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'body_to_shoulder_1', 'shoulder_to_upper_1', 'upper_to_lower_1', 'body_to_shoulder_2', 'shoulder_to_upper_2', 'upper_to_lower_2', 'body_to_shoulder_3', 'shoulder_to_upper_3', 'upper_to_lower_3', 'body_to_shoulder_4', 'shoulder_to_upper_4', 'upper_to_lower_4', ]
